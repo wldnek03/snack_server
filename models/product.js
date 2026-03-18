@@ -1,4 +1,3 @@
-
 module.exports = function (sequelize, DataTypes) {
   const product = sequelize.define("Product", {
     name: {
